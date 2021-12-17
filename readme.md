@@ -9,7 +9,7 @@ Zhongwen Liang
 
 
 ## Intension
--Our intension in this assignment is to explore the conditions of jails in the U.S. and all the possible influences on deaths in jail. Throughout this project, we will compare the followings: the death rate, suicide rate, causes of death in each state, the number of deaths around the country each year, time of death, the trend of the average daily inmate population, and the relationship between different causes of deaths between 2008-2019.
+-Our intension in this assignment is to explore the condition of jails in the U.S. and all the possible influences on deaths in jail. Throughout this project, we will compare the followings: the death rate, suicide rate, causes of death in each state, the number of deaths around the country each year, time of death, the trend of the average daily inmate population, and the relationship between different causes of deaths between 2008-2019.
 
 
 ## Data background
