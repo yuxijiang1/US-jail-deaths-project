@@ -1,10 +1,10 @@
 Analysis of Jail Deaths in U.S. 
 ===========
 
-Clarissa Chan
-Yuxi Jiang
-Louise Li 
-Yichu Chen
+Clarissa Chan,
+Yuxi Jiang,
+Louise Li, 
+Yichu Chen,
 Zhongwen Liang
 
 
