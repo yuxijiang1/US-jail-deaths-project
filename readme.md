@@ -1,4 +1,4 @@
-Analysis of Jail Deaths in U.S. 
+Analysis of Jail Deaths in the U.S. 
 ===========
 
 Clarissa Chan,
