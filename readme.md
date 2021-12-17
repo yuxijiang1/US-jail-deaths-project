@@ -2,7 +2,7 @@ Analysis of Jail Deaths in U.S.
 ===========
 
 Clarissa Chan
-Yuxi Jiang
+\nYuxi Jiang
 Louise Li 
 Yichu Chen
 Zhongwen Liang
