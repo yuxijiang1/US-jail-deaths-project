@@ -9,20 +9,20 @@ Zhongwen Liang
 
 
 ## Intension
--Our intension in this assignment is to explore the condition of jails in the U.S. and all the possible influences on deaths in jail. Throughout this project, we will compare the followings: the death rate, suicide rate, causes of death in each state, the number of deaths around the country each year, time of death, the trend of the average daily inmate population, and the relationship among different causes of deaths between 2008-2019.
+Our intension in this assignment is to explore the condition of jails in the U.S. and all the possible influences on deaths in jail. Throughout this project, we will compare the followings: the death rate, suicide rate, causes of death in each state, the number of deaths around the country each year, time of death, the trend of the average daily inmate population, and the relationship among different causes of deaths between 2008-2019.
 
 
 ## Data background
--Our data comes from the website "https://www.reuters.com/investigates/special-report/usa-jails-graphic/" created by journalists 
--we are using the "all_deaths.csv" and "all_jails.csv" files to access jail death information for 50 states
--"reuters-jail-deaths-codesheets.xlsx" is an excel file that contains the meaning of each variable in the two files listed above
+Our data comes from the website "https://www.reuters.com/investigates/special-report/usa-jails-graphic/" created by journalists 
+we are using the "all_deaths.csv" and "all_jails.csv" files to access jail death information for 50 states
+"reuters-jail-deaths-codesheets.xlsx" is an excel file that contains the meaning of each variable in the two files listed above
 
 
 ## Access to the file
--You should see a folder called "Notebook" above this Readme file
--open it and there will be a folder called "data" and a notebook called "141B_Final"
--"data" folder consists of all of the data that we will be using in the notebook which include "all_deaths.csv", "all_jails.csv", and "141B_Final" is the notebook that consist of all of our code.
--Make sure your terminal has install all of the following tools: numpy, pandas, plotnine, matplotlib, sqlalchemy, plotly, seaborn
+You should see a folder called "Notebook" above this Readme file
+open it and there will be a folder called "data" and a notebook called "141B_Final"
+"data" folder consists of all of the data that we will be using in the notebook which include "all_deaths.csv", "all_jails.csv", and "141B_Final" is the notebook that consist of all of our code.
+Make sure your terminal has install all of the following tools: numpy, pandas, plotnine, matplotlib, sqlalchemy, plotly, seaborn
   $ pip install numpy
   $ pip install pandas
   $ pip install plotnine
